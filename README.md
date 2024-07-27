@@ -26,7 +26,7 @@
 - Deployed projects to production environments, ensuring reliable and scalable application delivery.
 
 ### GitHub Projects:
-- ![Saas-Django]([https://img.shields.io/badge/Project-Saas--Django-brightgreen](https://github.com/redwan-moufaddal/Saas-Django)) **[Saas-Django](https://github.com/redwan-moufaddal/Saas-Django)**: A SaaS application built with Django.
+- ![Saas-Django](https://img.shields.io/badge/Project-Saas--Django-brightgreen) **[Saas-Django](https://github.com/redwan-moufaddal/Saas-Django)**: A SaaS application built with Django.
 - ![Django-blog-deploy](https://img.shields.io/badge/Project-Django--blog--deploy-blue) **[Django-blog-deploy](https://github.com/redwan-moufaddal/Django-blog-deploy)**: A deployable Django blog application.
 - ![store-django-backend-api-main](https://img.shields.io/badge/Project-store--django--backend--api--main-orange) **[store-django-backend-api-main](https://github.com/redwan-moufaddal/store-django-backend-api-main)**: A backend API for an online store built with Django.
 - ![celery-redis-django-docker](https://img.shields.io/badge/Project-celery--redis--django--docker-yellow) **[celery-redis-django-docker](https://github.com/redwan-moufaddal/celery-redis-django-docker)**: A project integrating Celery, Redis, Django, and Docker for asynchronous task management.
